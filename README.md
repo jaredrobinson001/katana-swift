@@ -306,32 +306,3 @@ Now, you just need to run:
 ```bash
 $ pod install
 ```
-
-## Get in touch 
-
-- if you have __any questions__ you can find us on twitter: [@maurobolis](https://twitter.com/maurobolis), [@luca_1987](https://twitter.com/luca_1987), [@smaramba](https://twitter.com/smaramba)
-
-## Special thanks
-
-- [Everyone at Bending Spoons](http://bendingspoons.com/team.html) for providing their priceless input;
-- [@orta](https://twitter.com/orta) for providing input on how to opensource the project;
-- [@danielemargutti](https://twitter.com/danielemargutti/) for developing and maintaining [Hydra](https://github.com/malcommac/Hydra/);
-
-## Contribute
-
-- If you've __found a bug__, open an issue;
-- If you have a __feature request__, open an issue;
-- If you __want to contribute__, submit a pull request;
-- If you __have an idea__ on how to improve the framework or how to spread the word, please [get in touch](#get-in-touch);
-- If you want to __try the framework__ for your project or to write a demo, please send us the link of the repo.
-
-
-## License
-
-Katana is available under the [MIT license](https://github.com/BendingSpoons/katana-swift/blob/master/LICENSE).
-
-## About
-
-Katana is maintained by Bending Spoons.
-We create our own tech products, used and loved by millions all around the world.
-Interested? [Check us out](http://bndspn.com/2fKggTa)!
